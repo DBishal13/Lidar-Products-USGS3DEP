@@ -2,8 +2,7 @@
 
 ## Author
 Bishal Dhungana
-
-NextEra Energy
+Geospatial Data Scientist
 
 ## Overview
 
