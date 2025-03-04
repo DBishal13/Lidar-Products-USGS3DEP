@@ -59,8 +59,8 @@ Because of the file size, it is recommended to run the Jupyter Notebook on your 
 
 For detailed steps and code implementation, please refer to the Jupyter Notebooks in the GitHub repository. The notebooks include all necessary functions, library imports, and processing steps required to generate the DEM and topographic products:
 
-- [Generate DEM from 3DEP Lidar Data - Jupyter Notebook](https://github.com/NextEraEnergy/ds905-LiDAR_Processing/blob/usgs_lidar_products/notebooks/Generate_DEM_AOI.ipynb)
-- [Generate Topographic Products from DEM - Jupyter Notebook](https://github.com/NextEraEnergy/ds905-LiDAR_Processing/blob/usgs_lidar_products/notebooks/Generate_DEM_Products.ipynb)
+- [Generate DEM from 3DEP Lidar Data - Jupyter Notebook](https://github.com/DBishal13/Lidar-Products-USGS3DEP/blob/main/notebooks/Generate_DEM_AOI.ipynb)
+- [Generate Topographic Products from DEM - Jupyter Notebook](https://github.com/DBishal13/Lidar-Products-USGS3DEP/blob/main/notebooks/Generate_DEM_AOI.ipynb)
 
 ## Additional Resources
 - https://github.com/OpenTopography/OT_3DEP_Workflows/tree/main/notebooks
@@ -83,9 +83,6 @@ The second notebook, `Generate_DEM_Products.ipynb`, extends the workflow by crea
 
 
 5. **Save Outputs**: Save the generated topographic products, such as slope, contours, and hillshade, in the desired formats for further use or analysis.
-
-
-For detailed code and implementation, refer to the [Generate Topographic Products from DEM - Jupyter Notebook](https://github.com/NextEraEnergy/ds905-LiDAR_Processing/blob/usgs_lidar_products/notebooks/Generate_DEM_Products.ipynb).
 
 
 
