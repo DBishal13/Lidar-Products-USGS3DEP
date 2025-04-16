@@ -31,7 +31,7 @@ Because of the file size, it is recommended to run the Jupyter Notebook on your 
 2. **Clone Repository**:
     ```bash
     $ cd post_lidar
-    $ git clone -b usgs_lidar_products https://github.com/NextEraEnergy/ds905-LiDAR_Processing.git
+    $ git clone https://github.com/DBishal13/Lidar-Products-USGS3DEP.git
     ```
 
 3. **Set Up Esri Python Environment**:
